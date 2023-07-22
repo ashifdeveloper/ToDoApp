@@ -57,3 +57,31 @@ The primary data structure used in the TodoAPP project is the `Todo` class, repr
 ## Project Summary
 
 The TodoAPP is a simple backend application built using the Spring Framework, with Java as the primary programming language. It provides various endpoints to interact with Todo items, allowing users to view all todos, get specific todos, mark them as done or undone, add new todos, and remove existing todos. The project follows a structured data flow pattern, with controllers handling incoming requests, services implementing business logic, and a repository for data access to interact with the underlying database.
+
+## Author
+
+👤 **Mohammad Ashif**
+
+* GitHub: [Mohammad Ashif]( https://github.com/ashifdeveloper)
+
+    
+---
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome.
+    
+---
+    
+## Show your support
+
+Give a ⭐️ if this project helped you!
+    
+---
+    
+## 📝 License
+
+Copyright © 2023 [Mohammad Ashif]( https://github.com/ashifdeveloper).<br />
+    
+---
+
