@@ -12,6 +12,7 @@
 <a href="Maven url" >
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
 </a>
+    <br>
 The TodoAPP is developed using the Spring Framework, specifically Spring Boot, for building the backend of the application. The primary language used for development is Java.
 
 ## Data Flow
